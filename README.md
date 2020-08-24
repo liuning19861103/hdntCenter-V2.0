@@ -13,6 +13,8 @@ the send function as follow.
 
 int ProtIEEE754(float *FloatDat,int FloatLen,unsigned char *buffer)
 {
+
+
       //unsigned char buffer[255]={0};
       unsigned char  check=0;   //crc check
       unsigned int count=0;   //transmit data length
