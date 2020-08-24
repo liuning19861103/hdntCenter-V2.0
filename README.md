@@ -1,4 +1,7 @@
 # hdntCenter-V2.0
+if you want to use long time, please send the serial number to liuning1898@hotmail.com
+
+
 the imu and ins data solve software.
 
 The transport protocols is:
