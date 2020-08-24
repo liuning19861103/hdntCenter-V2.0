@@ -7766,3 +7766,83 @@
 2020-08-21 22:33:34 Sl_CloseChart2d_Trig+加速度计1 
 2020-08-21 22:33:37 Sl_ChartSet1 
 2020-08-21 23:58:11 Close hdntCenter 
+2020-08-24 21:51:58 InitLog() Over 
+2020-08-24 21:51:58 InitParm() DispTimer over 
+2020-08-24 21:51:58 InitForm() hdntAbout hdntUserInfo over 
+2020-08-24 21:51:58 InitStatusBar() over 
+2020-08-24 21:51:58 InitMenuTool() over 
+2020-08-24 21:51:58 InitWidget() over 
+2020-08-24 21:51:58 InitSerial() over 
+2020-08-24 21:51:58 InitUdp() over 
+2020-08-24 21:51:58 InitDecode() over 
+2020-08-24 21:51:58 InitFile() over 
+2020-08-24 21:51:58 InitTerminal() over 
+2020-08-24 21:51:58 hdntCharts over 
+2020-08-24 21:51:58 hdntChartsXYSet over 
+2020-08-24 21:51:58 InitCharts() over 
+2020-08-24 21:51:58 InitCube() over 
+2020-08-24 21:51:58 InitAeroInstrument() over 
+2020-08-24 21:51:58 InitDataList() over 
+2020-08-24 21:51:58 InitSoftSet() over 
+2020-08-24 21:51:58 Init3DObject over 
+2020-08-24 21:51:58 InitExtCon over 
+2020-08-24 21:51:59 InitDevSet over 
+2020-08-24 21:51:59 InitGNSSDisp() over 
+2020-08-24 21:51:59 InitFileOpenSet() over 
+2020-08-24 21:51:59 InitDataSolve() over 
+2020-08-24 21:51:59 InitLicense() over 
+2020-08-24 21:51:59 InitTimer() over 
+2020-08-24 21:51:59 Start hdntCenter 
+2020-08-24 21:51:59 on_StViewFileTool_Checked 
+2020-08-24 21:51:59 on_StViewDevSet_Checked 
+2020-08-24 21:51:59 on_StViewDataDisp_Checked 
+2020-08-24 21:51:59 on_StViewSoftSet_Checked 
+2020-08-24 21:51:59 on_WgDevStatus_Checked 
+2020-08-24 21:51:59 on_WgDevList_Checked 
+2020-08-24 21:52:00 on_MtSoftSetting_triggered 
+2020-08-24 21:52:01 Sl_CloseSoftSet_Trig 
+2020-08-24 21:52:02 on_StUserMannual_triggered 
+2020-08-24 21:52:07 on_MtDevCalibration_triggered 
+2020-08-24 21:52:08 Sl_CloseDevSet_Trig 
+2020-08-24 21:52:12 on_MtCurveDisp_triggered 
+2020-08-24 21:52:16 Sl_ChartSet255 
+2020-08-24 21:52:18 Close hdntCenter 
+2020-08-24 21:56:36 InitLog() Over 
+2020-08-24 21:56:36 InitParm() DispTimer over 
+2020-08-24 21:56:36 InitForm() hdntAbout hdntUserInfo over 
+2020-08-24 21:56:36 InitStatusBar() over 
+2020-08-24 21:56:36 InitMenuTool() over 
+2020-08-24 21:56:36 InitWidget() over 
+2020-08-24 21:56:36 InitSerial() over 
+2020-08-24 21:56:36 InitUdp() over 
+2020-08-24 21:56:36 InitDecode() over 
+2020-08-24 21:56:36 InitFile() over 
+2020-08-24 21:56:36 InitTerminal() over 
+2020-08-24 21:56:36 hdntCharts over 
+2020-08-24 21:56:36 hdntChartsXYSet over 
+2020-08-24 21:56:36 InitCharts() over 
+2020-08-24 21:56:36 InitCube() over 
+2020-08-24 21:56:36 InitAeroInstrument() over 
+2020-08-24 21:56:36 InitDataList() over 
+2020-08-24 21:56:36 InitSoftSet() over 
+2020-08-24 21:56:36 Init3DObject over 
+2020-08-24 21:56:36 InitExtCon over 
+2020-08-24 21:56:37 InitDevSet over 
+2020-08-24 21:56:37 InitGNSSDisp() over 
+2020-08-24 21:56:37 InitFileOpenSet() over 
+2020-08-24 21:56:37 InitDataSolve() over 
+2020-08-24 21:56:37 InitLicense() over 
+2020-08-24 21:56:37 InitTimer() over 
+2020-08-24 21:56:37 Start hdntCenter 
+2020-08-24 21:56:37 on_StViewFileTool_Checked 
+2020-08-24 21:56:37 on_StViewDevSet_Checked 
+2020-08-24 21:56:37 on_StViewDataDisp_Checked 
+2020-08-24 21:56:37 on_StViewSoftSet_Checked 
+2020-08-24 21:56:37 on_WgDevStatus_Checked 
+2020-08-24 21:56:37 on_WgDevList_Checked 
+2020-08-24 21:56:38 on_MtDevCalibration_triggered 
+2020-08-24 21:56:39 on_MtCurveDisp_triggered 
+2020-08-24 21:56:42 Sl_ChartSet255 
+2020-08-24 21:56:44 Sl_ChartSet255 
+2020-08-24 21:56:44 Sl_ChartSet255 
+2020-08-24 21:56:46 Close hdntCenter 
