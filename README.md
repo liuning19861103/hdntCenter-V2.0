@@ -1,6 +1,14 @@
 # hdntCenter-V2.0
+
+#20091501
+update hdntGPCon
+update user mannual
+
 if you want to use long time, please send the serial number to liuning1898@hotmail.com
 
+如需开放特定功能入口，可联系邮件：liuning1898@hotmail.com
+
+Provide access to open specific functions, contact email: liuning1898@hotmail.com
 
 the imu and ins data solve software.
 
