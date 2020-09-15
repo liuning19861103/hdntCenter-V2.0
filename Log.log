@@ -100,3 +100,38 @@
 2020-09-15 23:40:03 on_WgDevStatus_Checked 
 2020-09-15 23:40:03 on_WgDevList_Checked 
 2020-09-15 23:40:05 Close hdntCenter 
+2020-09-16 02:04:18 InitLog() Over 
+2020-09-16 02:04:18 InitParm() DispTimer over 
+2020-09-16 02:04:18 InitForm() hdntAbout hdntUserInfo over 
+2020-09-16 02:04:18 InitStatusBar() over 
+2020-09-16 02:04:18 InitMenuTool() over 
+2020-09-16 02:04:18 InitWidget() over 
+2020-09-16 02:04:19 InitSerial() over 
+2020-09-16 02:04:19 InitUdp() over 
+2020-09-16 02:04:19 InitDecode() over 
+2020-09-16 02:04:19 InitFile() over 
+2020-09-16 02:04:19 InitTerminal() over 
+2020-09-16 02:04:19 hdntCharts over 
+2020-09-16 02:04:19 hdntChartsXYSet over 
+2020-09-16 02:04:19 InitCharts() over 
+2020-09-16 02:04:19 InitCube() over 
+2020-09-16 02:04:19 InitAeroInstrument() over 
+2020-09-16 02:04:19 InitDataList() over 
+2020-09-16 02:04:19 InitSoftSet() over 
+2020-09-16 02:04:19 Init3DObject over 
+2020-09-16 02:04:19 InitExtCon over 
+2020-09-16 02:04:19 InitDevSet over 
+2020-09-16 02:04:19 InitGNSSDisp() over 
+2020-09-16 02:04:19 InitFileOpenSet() over 
+2020-09-16 02:04:19 InitDataSolve() over 
+2020-09-16 02:04:19 InitLicense() over 
+2020-09-16 02:04:19 InitTimer() over 
+2020-09-16 02:04:19 Start hdntCenter 
+2020-09-16 02:04:20 on_StViewFileTool_Checked 
+2020-09-16 02:04:20 on_StViewDevSet_Checked 
+2020-09-16 02:04:20 on_StViewDataDisp_Checked 
+2020-09-16 02:04:20 on_StViewSoftSet_Checked 
+2020-09-16 02:04:20 on_WgDevStatus_Checked 
+2020-09-16 02:04:20 on_WgDevList_Checked 
+2020-09-16 02:04:22 on_Mt3DDisp_triggered 
+2020-09-16 02:04:25 Close hdntCenter 
