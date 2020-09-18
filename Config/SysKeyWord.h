@@ -185,13 +185,17 @@
 #define TIME      157
 
 #define GPS_POSSTA 158
-#define GPS_PN    159
-#define GPS_PE    160
-#define GPS_PD    161
+#define GPS_PN     159
+#define GPS_PE     160
+#define GPS_PD     161
 
-#define VERSION   162
+#define MAGROTM    162
+#define MAGROTY    163
+#define MAGROTZ    164
 
-#define OUT_CH_NUM 163
+#define VERSION   165
+
+#define OUT_CH_NUM 166
 
 #endif
 
