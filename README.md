@@ -1,5 +1,8 @@
 # hdntCenter-V2.0
 
+#20092001
+1、更新曲线绘制库，修正之前一版，曲线开多内存占用过高问题
+
 #20091501
 update hdntGPCon
 update user mannual
