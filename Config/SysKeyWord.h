@@ -193,9 +193,20 @@
 #define MAGROTY    163
 #define MAGROTZ    164
 
-#define VERSION   165
+#define VERSION    165
 
-#define OUT_CH_NUM 166
+#define MX_2        166
+#define MY_2        167
+#define MZ_2        168
+#define MX_3        169
+#define MY_3        170
+#define MZ_3        171
+#define MX_4        172
+#define MY_4        173
+#define MZ_4        174
+#define MAG_SF      175
+
+#define OUT_CH_NUM  176
 
 #endif
 
