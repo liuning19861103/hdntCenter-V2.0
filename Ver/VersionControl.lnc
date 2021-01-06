@@ -1,15 +1,15 @@
 hdntCenter Application. hdntCenter Application, Copyright (C) HDNT,2019
-10;  hdntDevCali.dll;               2010230920;          LiuNing;                       Release;
+10;  hdntDevCali.dll;               2012111132;          LiuNing;                       Release;
 11;  hdntChartsXYSet.dll;           2009091337;          LiuNing;                       Release;
 12;  hdntBMD.dll;                   2010252121;          LiuNing;                       Release;
 12;  hdntChartSet.dll;              2009230914;          LiuNing WangHaiLu;             Release;
-13;  hdntFirSet.dll;                2010201209;          LiuNing;                       Release;
-14;  hdntDevSet.dll;                2010252119;          LiuNing;                       Release;
+13;  hdntFirSet.dll;                2012111020;          LiuNing;                       Release;
+14;  hdntDevSet.dll;                2012111131;          LiuNing;                       Release;
 15;  hdntIni.dll;                   2009091142;          LiuNing;                       Release;
 17;  hdntDataList.dll;              2010222041;          LiuNing;                       Release;
 18;  hdntCaliSet.dll;               2010201216;          LiuNing;                       Release;
 19;  hdntFile.dll;                  2009091339;          LiuNing;                       Release;
-1;   hdntCenter.exe;                2011201606;          LiuNing;                       Release;
+1;   hdntCenter.exe;                2101060907;          LiuNing;                       Release;
 20;  hdntText.dll;                  2009091209;          LiuNing;                       Release;
 21;  hdntTerminal.dll;              2009091433;          LiuNing;                       Release;
 22;  hdntSysSet.dll;                2011201443;          WangHaiLu;                     Release;
