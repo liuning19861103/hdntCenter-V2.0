@@ -52,11 +52,11 @@ the imu and ins data solve software.
 
 The transport protocols is:
 
-IEEE 754
-Header: 0x55 0xaa
-Length: all the data length 1 byte
-Contents: float (IEEE 754) ; 1 float/4 bytes
-check: all the bytes sum unsigned char.
+IEEE 754  
+1. Header: 0x55 0xaa  
+2. Length: all the data length 1 byte  
+3. Contents: float (IEEE 754) ; 1 float/4 bytes  
+4. check: all the bytes sum unsigned char.  
 
 the send function as follow.   
 
