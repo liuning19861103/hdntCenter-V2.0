@@ -22,12 +22,12 @@
 3、目前对中文路径支持还不是很好，后边陆续更新。  
 
 # 20102001
-1、更新协议BJIMU01；
-2、系统标定改为MDI模式，具体细节未完善。
+1、更新协议BJIMU01；  
+2、系统标定改为MDI模式，具体细节未完善。  
 3、设备更新加高速度。
 
 # 20092601
-1、新发现bug，曲线设置会导致异常死机，未解决，今天太晚了。明天解决。
+1、新发现bug，曲线设置会导致异常死机，未解决，今天太晚了。明天解决。  
 2、更新了协议库，发现协议库底层做的有点不好，后续重新搭建，采用显式调用方式应更为合理。
 
 # 20092002
@@ -38,11 +38,11 @@
 1、更新曲线绘制库，修正之前一版，曲线开多内存占用过高问题
 
 # 20091501
-update hdntGPCon
+update hdntGPCon  
 update user mannual
 
 # 使用说明
-if you want to use long time, please send the serial number to liuning1898@hotmail.com
+if you want to use long time, please send the serial number to liuning1898@hotmail.com  
 
 如需开放特定功能入口，可联系邮件：liuning1898@hotmail.com
 
@@ -58,8 +58,9 @@ Length: all the data length 1 byte
 Contents: float (IEEE 754) ; 1 float/4 bytes
 check: all the bytes sum unsigned char.
 
-the send function as follow.
+the send function as follow.   
 
+```
 int ProtIEEE754(float *FloatDat,int FloatLen,unsigned char *buffer)
 {
 
@@ -96,3 +97,4 @@ int ProtIEEE754(float *FloatDat,int FloatLen,unsigned char *buffer)
       length=count;
       return length;
 }
+```
