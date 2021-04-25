@@ -1,5 +1,11 @@
 # hdntCenter-V2.0
 
+# 通知
+
+！！！！！
+本项目已搬迁至Gitee平台，GitHub上后续不再更新，敬请谅解。Github的网速，有点太慢了。
+https://gitee.com/bistu_liuning/hdntCenter-V2.0
+
 # 号外 号外
 二月初会有重大更新，敬请期待！！！  
 如有更新要求及建议，欢迎邮件沟通。
